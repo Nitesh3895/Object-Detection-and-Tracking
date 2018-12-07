@@ -21,7 +21,7 @@ However Again there is a trade off between the accuracy and the speed. The Detec
 where as we see a lot of false examples in Detection + Tracking.
 
 The _ _blue_ _ lines are the _ _detection_ _ from object detector SSD+Mobilenets and the _ _yellow_ _ boxes are from the _ _Tracker_ _.
-**Detection along with Trcaking Output**
+**Detection along with Tracking Output**
 
 
 
