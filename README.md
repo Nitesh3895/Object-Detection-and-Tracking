@@ -20,6 +20,6 @@ As seen in the screenshot Detection takes secs where as The object detection alo
 However Again there is a trade off between the accuracy and the speed. The Detection is very accurate for each frames
 where as we see a lot of false examples in Detection + Tracking.
 
-![](Detection+Tracking.png width="200", height="200")
+![](Detection + Tracking.png)
 
 ![](output.gif)
