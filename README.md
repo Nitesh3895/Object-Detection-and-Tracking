@@ -22,13 +22,12 @@ where as we see a lot of false examples in Detection + Tracking.
 
 
 **Detection**
-![](Detection.png)
 
 
 
 
 **Detection along with tracking**
-![](Detection + Tracking.png)
+
 
 
 
