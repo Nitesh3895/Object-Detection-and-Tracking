@@ -23,4 +23,4 @@ where as we see a lot of false examples in Detection + Tracking.
 ![](Detection.png)
 ![](Detection+Tracking.png)
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![](output.gif)
