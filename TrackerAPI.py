@@ -1,3 +1,8 @@
+"""
+Application: TrackerAPI.
+Author: Nitesh Kumar M
+Creation Date: 05/12/2018
+"""
 from DetectAPI import DetectAPI
 import cv2
 import dlib
