@@ -19,10 +19,19 @@ So I have to look into how to terminate the process if the objects goes out of s
 As seen in the screenshot **Detection takes 194 secs** where as **Detection along with tracking takes only 124 secs**.
 However Again there is a trade off between the accuracy and the speed. The Detection is very accurate for each frames
 where as we see a lot of false examples in Detection + Tracking.
+
+
 **Detection**
 ![](Detection.png)
+
+
+
+
 **Detection along with tracking**
 ![](Detection + Tracking.png)
+
+
+
 
 **Detection along with Trcaking Output**
 ![](output.gif)
