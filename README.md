@@ -20,17 +20,8 @@ As seen in the screenshot **Detection takes 194 secs** where as **Detection alon
 However Again there is a trade off between the accuracy and the speed. The Detection is very accurate for each frames
 where as we see a lot of false examples in Detection + Tracking.
 
-
-**Detection**
-
-
-
-
-**Detection along with tracking**
-
-
-
-
-
 **Detection along with Trcaking Output**
+
+
+
 ![](output.gif)
